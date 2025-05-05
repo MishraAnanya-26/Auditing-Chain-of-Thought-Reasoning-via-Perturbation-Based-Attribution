@@ -3,7 +3,7 @@ While CoT prompting exposes intermediate reasoning steps, it fails to reveal whe
 
 ## Starting Instructions
 ### 1. Use a GPU for attribution score generation as shown in the image before starting
-2. <img src="attachment:2849edfa-2573-4158-971e-3893e18f7d41.png" width="500"/>
+2. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/Readme-GPU.png" width="500"/>
 ### 2. The first cell will clean Up the cache left from any previous runs
 3. <img src="attachment:e46aa8b9-950d-4a25-943f-d0864085b2c2.png" width="500"/>
 ### 3. click OK and proceed
