@@ -1,0 +1,18 @@
+Step,Matched Phrases,Question
+"First, let's find out how many sheep Charleston has. Since Charleston has 4 times as many sheep as Seattle, and Seattle has 20 sheep, then Charleston has 4 * 20 = 80 sheep.","['Charleston has 4 times as', 'many sheep as Seattle', 'has 20 sheep']",6
+"Next, let's find out how many sheep Toulouse has. Since Toulouse has twice as many sheep as Charleston, and Charleston has 80 sheep, then Toulouse has 2 * 80 = 160 sheep.","['Toulouse has twice as many', 'sheep as Charleston', 'Charleston']",6
+"Finally, let's add up the number of sheep Toulouse, Charleston, and Seattle have together. This is 160 (Toulouse) + 80 (Charleston) + 20 (Seattle) = 260 sheep.","['How many sheep do Toulouse', 'Charleston', 'Seattle have together if Seattle']",6
+"First, let's calculate how much data Carla has already downloaded before the restart. 40% of 200 GB is 0.40 * 200 = 80 GB.","['Carla is downloading a 200', 'GB file', '40% of the way through']",7
+"So, Carla has already downloaded 80 GB, and she has to restart the download from the beginning. This means she has to download the remaining 200 - 80 = 120 GB.","['GB file', '40% of the way through', 'Then Carla has to restart']",7
+"Now, let's calculate how long it takes to download the remaining data. Carla's normal download speed is 2 GB/minute, so it would take her 120 / 2 = 60 minutes to download the remaining data.","['Normally she can download 2', 'GB/minute', 'to download the file']",7
+"However, Carla has to restart the download after the 20-minute update. So, the total time it takes to download the file is 60 (download time) + 20 (restart time) = 80 minutes.","['Windows forces a restart to', 'install updates', 'which takes 20 minutes']",7
+"First, let's calculate how far John has driven before he realizes he forgot something. He drives for 3 hours at a speed of 60 mph, so he has driven 3 * 60 = 180 miles.","['John drives for 3 hours', 'at a speed of 60', 'mph']",8
+"Then, he tries to get home in 4 hours, but spends the first 2 hours in standstill traffic. So, he has 4 - 2 = 2 hours left.","['He tries to get home', 'in 4 hours', 'spends the first 2 hours']",8
+"He spends the next half-hour driving at a speed of 30 mph, so he has driven 0.5 * 30 = 15 miles.","['He spends the next half-hour', 'driving at a speed of', '30mph']",8
+"Then, he drives the remaining time of the 4 hours going at 80 mph. So, he has driven 2 - 0.5 = 1.5 hours at 80 mph, which is 1.5 * 80 = 120 miles.","['the remaining time of the', '4 hours going at 80', 'mph']",8
+"First, let's calculate how much Eliza earns for the first 40 hours. Since her rate per hour is 10/hour = $400 for the first 40 hours.","['Eliza's rate per hour for', 'the first 40 hours she', 'works each week is $10']",9
+"Next, let's calculate how much she earns for the overtime hours. She worked 45 hours - 40 hours = 5 hours of overtime.","['If Eliza worked for 45', 'hours this week', 'She also receives an overtime']",9
+"Her overtime pay is 1.2 times her regular hourly rate, so her overtime rate is 1.2 * 12/hour.","['pay of 1', '2 times her regular hourly', 'rate']",9
+First month: 60 downloads,"['A new program had 60', 'downloads in the first month', 'How many downloads did the']",10
+Second month: 3 * 60 downloads = 180 downloads,"['The number of downloads in', 'the second month was three', 'times as many as the']",10
+Third month: 180 downloads * 0.70 = 126 downloads,"['then reduced by 30% in', 'the third month', 'How many downloads did the']",10

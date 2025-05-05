@@ -1,0 +1,21 @@
+Step,Matched Phrases,Question
+"Let's denote the number of post-it notes Candice had before she went to work as P, the number of post-it notes she purchased as X, and the number of post-it notes she had after working as Y.","['Candice put 80 post-it notes', 'in her purse before she', 'purchased a package of Post-it']",46
+"We know that P = 80, Y = 23, and the total number of post-it notes she had after working is the sum of the post-it notes she had before and the post-it notes she purchased minus the post-it notes she used at work, so we have the equation:","['she placed a single Post-it', 'note on each of 220', 'If she had 23 post-it']",46
+P + X - 220 = Y,"['she placed a single Post-it', 'note on each of 220', 'If she had 23 post-it']",46
+"Substituting the known values, we get:","['Candice put 80 post-it notes', 'purchased a package of Post-it', 'If she had 23 post-it']",46
+80 + X - 220 = 23,"['Candice put 80 post-it notes', 'note on each of 220', 'If she had 23 post-it']",46
+"First, let's find out how many blue ties John bought. He spent 40 each, so he bought 40 = 5 blue ties.","['He spent $200 on blue', 'ties that cost $40 each', 'How much did he spend']",47
+"John buys twice as many red ties as blue ties, so he bought 2 * 5 = 10 red ties.","['John buys twice as many', 'red ties as blue ties', 'How much did he spend']",47
+"The red ties cost 50% more than blue ties, so they cost 40 * 50%) = 20 = $60 each.","['The red ties cost 50%', 'more than blue ties', 'ties that cost $40 each']",47
+John spent 600 on red ties.,"['John buys twice as many', 'The red ties cost 50%', 'How much did he spend']",47
+"First, we need to convert the length of the wire from feet to inches because the length of the pieces is given in inches. We know that 1 foot is equal to 12 inches. So, 4 feet is equal to 4 * 12 = 48 inches.","['Tracy used a piece of', 'wire 4 feet long to', 'pieces 6 inches long']",48
+"Now, we can calculate the number of pieces by dividing the total length of the wire by the length of each piece. So, 48 inches / 6 inches = 8 pieces.","['wire 4 feet long to', 'pieces 6 inches long', 'How many pieces did she']",48
+"First, let's find out how many units are in the building. Since each floor contains 8 units and there are 15 floors, the total number of units in the building is 8 units/floor * 15 floors = 120 units.","['building with 15 floors', 'Each floor contains 8 units', ""What's the total number of""]",49
+"Next, we need to find out how many units are occupied. Since 3/4 of the building is occupied, the number of occupied units is 3/4 * 120 units = 90 units.","['3/4 of the building is', 'occupied', ""What's the total number of""]",49
+"Finally, to find the number of unoccupied units, we subtract the number of occupied units from the total number of units in the building. So, the number of unoccupied units is 120 units - 90 units = 30 units.","['unoccupied units In the building', '3/4 of the building is', ""What's the total number of""]",49
+"First, we need to find out how many dozens of eggs Lloyd gets per day. Since there are 12 eggs in a dozen, we divide the total number of eggs by 12:","['His chickens produce 252 eggs', 'per day', 'per dozen']",50
+252 eggs / 12 = 21 dozens,"['His chickens produce 252 eggs', 'per day', 'per dozen']",50
+"Next, we need to find out how much money Lloyd makes per day. Since he sells each dozen for $2, we multiply the number of dozens by the price per dozen:","['he sells them for $2', 'per dozen', 'How much does Lloyd make']",50
+21 dozens * 42,"['he sells them for $2', 'per dozen', 'How much does Lloyd make']",50
+"Finally, we need to find out how much money Lloyd makes per week. Since there are 7 days in a week, we multiply the daily earnings by 7:","['on eggs per week', 'per day', 'How much does Lloyd make']",50
+294/week,"['on eggs per week', 'per day', 'How much does Lloyd make']",50

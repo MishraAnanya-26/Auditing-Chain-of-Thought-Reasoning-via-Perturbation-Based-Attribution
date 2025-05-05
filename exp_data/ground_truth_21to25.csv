@@ -1,0 +1,25 @@
+Step,Matched Phrases,Question
+"Let's denote the age of Raymond's son as R and the age of Samantha as S. We know that Raymond was born 6 years before Samantha, so we can write the equation:","['Raymond was born 6 years', 'before Samantha', 'If Samantha is now 31']",21
+R = S - 6,"['Raymond was born 6 years', 'before Samantha', 'If Samantha is now 31']",21
+"We also know that Raymond's son is now 23 years old, so we can write the equation:","['Raymond had a son at', 'the age of 23', 'Raymond's son born']",21
+R = 23,"['Raymond had a son at', 'the age of 23', 'Raymond's son born']",21
+"Now we can solve these two equations simultaneously. Since both equations equal R, we can set them equal to each other:","['Raymond was born 6 years', 'before Samantha', 'the age of 23']",21
+S - 6 = 23,"['Raymond was born 6 years', 'before Samantha', 'the age of 23']",21
+Now we can solve for S:,"['If Samantha is now 31', 'how many years ago was', 'Raymond's son born']",21
+S = 23 + 6,"['If Samantha is now 31', 'how many years ago was', 'Raymond's son born']",21
+S = 29,"['If Samantha is now 31', 'how many years ago was', 'Raymond's son born']",21
+Billy sold 3 + 2 + 2 = 7 DVDs on Tuesday.,"['His first 3 customers buy', 'one DVD each', 'His next 2 customers buy']",22
+"First, we need to calculate the total time the candle burns from 1:00 PM to 5:00 PM.","['A candle melts by 2', 'centimeters every hour that it', 'from 1:00 PM to 5:00']",23
+There are 4 hours from 1:00 PM to 5:00 PM.,"['A candle melts by 2', 'from 1:00 PM to 5:00', 'PM']",23
+"Since the candle melts by 2 centimeters every hour, the total length of the candle that melts is 4 hours * 2 centimeters/hour = 8 centimeters.","['A candle melts by 2', 'centimeters every hour that it', 'How many centimeters shorter will']",23
+Let's denote the original price of the book as x.,"['Kyle bought last year's best-selling', 'book for $19', '50']",24
+"According to the problem, Kyle bought the book for $19.50, which is 75% of the original price (since there was a 25% discount).","['This is with a 25%', 'discount from the original price', 'What was the original price']",24
+"First, let's calculate the total cost of the chicken meal, milk, and apples:","['Marie ordered one chicken meal', 'that costs $12', '5 packs of milk that']",25
+Chicken meal cost: $12,"['Marie ordered one chicken meal', 'that costs $12', 'Marie paid a total of']",25
+Milk cost: 5 packs * 15,"['5 packs of milk that', 'costs $3 each', 'Marie paid a total of']",25
+Apples cost: 4 apples * 6,"['4 apples that cost $1', '50 each', 'Marie paid a total of']",25
+"Total cost of chicken meal, milk, and apples: 15 + 33","['some boxes of pizza', 'Marie paid a total of', '$50']",25
+"Now, let's calculate the total cost of the boxes of pizza:","['some boxes of pizza', 'Marie paid a total of', '$50']",25
+"Total cost of boxes of pizza: 33 (total cost of chicken meal, milk, and apples) = $17","['How many boxes of pizza', 'did Marie order if each', 'box costs $8']",25
+"Now, let's calculate the number of boxes of pizza Marie ordered:","['How many boxes of pizza', 'did Marie order if each', 'box costs $8']",25
+Number of boxes of pizza: 8.50 (cost per box) = 2,"['How many boxes of pizza', 'did Marie order if each', 'box costs $8']",25

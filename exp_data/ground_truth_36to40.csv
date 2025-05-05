@@ -1,0 +1,17 @@
+Step,Matched Phrases,Question
+"First, let's find out how much Terry spends on yogurt each day. Since he eats 2 yogurts a day and they are on sale at 4 yogurts for 5.00 divided by 4 yogurts equals $1.25 per yogurt.","['Terry eats 2 yogurts a', 'day', 'They are currently on sale']",36
+"Since Terry eats 2 yogurts a day, he spends 2 yogurts times 2.50 per day.","['Terry eats 2 yogurts a', 'day', 'How much does he spend']",36
+"Now, let's calculate how much Terry spends on yogurt over 30 days. We do this by multiplying the daily cost by the number of days. So, 75.00.","['on yogurt over 30 days', 'They are currently on sale', 'at 4 yogurts for $5']",36
+"First, let's calculate how much money John made from selling the lego sets. He sold 13 lego sets for 15 = $195.","['He has 13 lego sets', 'he sells them for $15', 'each']",37
+"Next, let's calculate how much money John spent on the video games. He bought 8 video games for 20 = $160.","['He ends up buying 8', 'video games for $20 each', 'has $5 left']",37
+John also had 195 + 200.,"['use the money to buy', 'video games', 'has $5 left']",37
+"First, let's calculate the total time John runs in a week.","['John runs 60 miles a', 'week', 'He runs 3 days a']",38
+"He runs 3 hours the first day and half as much the other two days. So, he runs 3/2 = 1.5 hours each of the other two days.","['He runs 3 hours the', 'first day', 'half as much the other']",38
+"John runs 60 miles in 6 hours, so his speed is 60 miles / 6 hours = 10 miles per hour.","['How fast does he run', 'John runs 60 miles a', 'week']",38
+"First, we need to find out Dana's walking speed. Since she can skip at a speed that is half as fast as she can run, and she can skip at 3 miles per hour, her running speed is 3 miles per hour * 2 = 6 miles per hour.","['she can skip at a', 'rate of speed that is', 'If she can skip at']",39
+"Next, we need to find out how much time Dana spends running and walking. Since she spends one-third of the time running and two-thirds of the time walking, she spends 6 hours * 1/3 = 2 hours running and 6 hours * 2/3 = 4 hours walking.","['she spends one-third of the', 'time running', 'two-thirds of the time walking']",39
+"Now, we can calculate how many miles Dana can travel in six hours if she spends one-third of the time running and two-thirds of the time walking. She can run for 2 hours at a speed of 6 miles per hour, so she can run 2 hours * 6 miles per hour = 12 miles. She can walk for 4 hours at a speed of 3 miles per hour, so she can walk 4 hours * 3 miles per hour = 12 miles.","['how many miles can she', 'travel in six hours if', 'she spends one-third of the']",39
+"Let's denote the age of Suzy's iPhone as S, the age of Ben's iPhone as B, and the age of Brandon's iPhone as Br.","['Brandon's iPhone is four times', 'as old as Ben's iPhone', 'Ben's iPhone is two times']",40
+"From the problem, we know that:","['Brandon's iPhone is four times', 'as old as Ben's iPhone', 'Ben's iPhone is two times']",40
+1. S = 1 (Suzy's iPhone is 1 year old),"['If Suzy’s iPhone is 1', 'year old', 'how old is Brandon’s iPhone']",40
+2. B = 2S (Ben's iPhone is two times older than Suzy's iPhone),"['Ben's iPhone is two times', 'older than Suzy's iPhone', 'how old is Brandon’s iPhone']",40

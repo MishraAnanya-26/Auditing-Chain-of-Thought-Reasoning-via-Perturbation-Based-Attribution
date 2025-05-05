@@ -1,0 +1,21 @@
+Step,Matched Phrases,Question
+"First, let's calculate the total cost of the shorts. Mishka bought 3 pairs of shorts, and each pair costs 16.50 = $49.50.","['Mishka bought 3 pairs of', 'shorts', 'One pair of shorts costs']",26
+"Next, let's calculate the total cost of the pants. Mishka bought 3 pairs of pants, and each pair costs 22.50 = $67.50.","['3 pairs of pants', 'One pair of pants costs', '$22']",26
+"Finally, let's calculate the total cost of the shoes. Mishka bought 3 pairs of shoes, and each pair costs 42 = $126.","['3 pairs of shoes', 'one pair of shoes costs', '$42']",26
+"Now, let's add up the total cost of the shorts, pants, and shoes to find out how much Mishka spent on all the clothing items. The total cost is 67.50 + 243.","['How many dollars did Mishka', 'spend on all the clothing', 'items']",26
+"First, let's find out how many servings of ice cream Cynthia will eat in 60 days. Since she eats one serving of ice cream every night, she will eat 1 serving/day * 60 days = 60 servings of ice cream in 60 days.","['Cynthia eats one serving of', 'ice cream every night', 'After 60 days']",27
+"Next, let's find out how many cartons of ice cream she will need to buy to have 60 servings. Since each carton has 15 servings, she will need to buy 60 servings / 15 servings/carton = 4 cartons of ice cream.","['She buys cartons of ice', 'cream with 15 servings of', 'ice cream per carton at']",27
+"Finally, let's find out how much she will spend on these 4 cartons of ice cream. Since each carton costs 4.00/carton = $16.00 on ice cream.","['a cost of $4', '00 per carton', 'how much will she spend']",27
+"Henry's first stop was after 20 miles, so he traveled 20 miles before his first stop.","['He first stopped after 20', 'miles', 'How many miles did he']",28
+"His second stop was 15 miles before the end of the trip. Since the total trip was 60 miles, the end of the trip was 60 miles. So, his second stop was 60 - 15 = 45 miles from the beginning of the trip.","['His second stop was 15', 'miles before the end of', 'the trip']",28
+"Therefore, the distance between his first and second stops is the distance from the beginning of the trip to his first stop plus the distance from his second stop to the end of the trip.","['travel between his first', 'second stops', 'his 60-mile bike trip']",28
+"Let's denote the cost of the boots as B. According to the problem, the total cost of the two pairs of high heels is 33 = 66 = $99.","['one pair of heels', 'costs $33', 'the other costs twice as']",29
+"The problem states that the total cost of the two pairs of high heels is five dollars less than the cost of the boots. Therefore, we can write the equation:","['that together cost five dollars', 'less than the boots', 'how many dollars are the']",29
+B = 5,"['that together cost five dollars', 'less than the boots', 'how many dollars are the']",29
+"Let's denote Darrell's age as D and Allen's age as A. We know that the ratio of their ages is 7:11, which means D/A = 7/11.","['Darrell', 'Allen's ages are in the', 'ratio of 7:11']",30
+"We also know that their total age is 162, so D + A = 162.","['If their total age now', 'is 162', 'calculate Allen's age 10 years']",30
+"First, let's express D in terms of A from the ratio equation: D = 7A/11.","['ratio of 7:11', 'If their total age now', 'is 162']",30
+"Now, substitute D in the total age equation: 7A/11 + A = 162.","['If their total age now', 'is 162', 'calculate Allen's age 10 years']",30
+"To solve for A, we first need to get rid of the fraction. We can do this by multiplying every term by 11: 7A + 11A = 162 * 11.","['ratio of 7:11', 'If their total age now', 'is 162']",30
+"Now, divide both sides by 18 to find A: A = 1782 / 18 = 99.","['If their total age now', 'is 162', 'calculate Allen's age 10 years']",30
+"To find Allen's age 10 years from now, we simply add 10 to his current age: 99 + 10 = 109.","['calculate Allen's age 10 years', 'from now', 'ratio of 7:11']",30

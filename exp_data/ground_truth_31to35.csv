@@ -1,0 +1,18 @@
+Step,Matched Phrases,Question
+"First, let's find out what each friend's guess is:","['Gunter is trying to count', 'the jelly beans in a', 'jar']",31
+The first friend's guess is 80.,"['One says 80', 'Another says 20 more than', 'half the first one']",31
+"The second friend's guess is 20 more than half of the first friend's guess. Half of 80 is 40, so the second friend's guess is 40 + 20 = 60.","['Another says 20 more than', 'half the first one', 'A third says 25% more']",31
+"The third friend's guess is 25% more than the first friend's guess. 25% of 80 is 0.25 * 80 = 20, so the third friend's guess is 80 + 20 = 100.","['A third says 25% more', 'than the first one', 'What is their average guess']",31
+"Now, let's find the average of these guesses. The average is the sum of the guesses divided by the number of guesses. So, the average guess is (80 + 60 + 100) / 3 = 240 / 3 = 80.","['What is their average guess', 'One says 80', 'Another says 20 more than']",31
+"There are 7 days in a week, so John spends 7 days * .5 hours/day = 3.5 hours/day on dogs.","['Each dog takes', '5 hours a day to', 'walk']",32
+"Since John takes care of 10 dogs, he spends 3.5 hours/day * 10 dogs = 35 hours/week on dogs.","['John takes care of 10', 'dogs', 'How many hours a week']",32
+Let's assume the number of silver coins is x.,"['Gretchen has 110 coins', 'There are 30 more gold', 'coins than silver coins']",33
+"According to the given information, the number of gold coins is x + 30.","['There are 30 more gold', 'coins than silver coins', 'How many gold coins does']",33
+"The total number of coins is the sum of the number of gold coins and the number of silver coins, which is x + (x + 30) = 110.","['Gretchen has 110 coins', 'There are 30 more gold', 'coins than silver coins']",33
+"Let's denote the number of jewels Siobhan has as S, the number of jewels Aaron has as A, and the number of jewels Raymond has as R.","['Siobhan has 2 fewer jewels', 'than Aaron', 'Aaron has 5 more jewels']",34
+"From the problem, we know that:","['Siobhan has 2 fewer jewels', 'than Aaron', 'Aaron has 5 more jewels']",34
+"1. Siobhan has 2 fewer jewels than Aaron, so S = A - 2.","['Siobhan has 2 fewer jewels', 'than Aaron', 'how many jewels does Siobhan']",34
+"2. Aaron has 5 more jewels than half of Raymond's jewels, so A = R/2 + 5.","['Aaron has 5 more jewels', than half of Raymond's jewels’,’If Raymond has 40 jewels']""",34
+"In the first 20 minutes, Mike scores 4 points.","['In the first 20 minutes', 'he scores 4 points', 'How many total points did']",35
+"In the second 20 minutes, he scores 25% more points than the first 20 minutes. 25% of 4 points is 4 * 0.25 = 1 point. So, he scores 4 + 1 = 5 points in the second 20 minutes.","['In the second 20 minutes', 'he scores 25% more points', 'How many total points did']",35
+"Therefore, the total number of points Mike scored is 4 (from the first 20 minutes) + 5 (from the second 20 minutes) = 9 points.","['How many total points did', 'he score', 'Mike plays ping pong for']",35

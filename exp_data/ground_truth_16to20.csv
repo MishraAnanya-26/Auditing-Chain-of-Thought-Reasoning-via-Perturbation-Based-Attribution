@@ -1,0 +1,21 @@
+Step,Matched Phrases,Question
+The distance covered by each train in the two days is the sum of the distances covered in each direction.,"['Two trains leave San Rafael', 'They begin traveling westward', 'both traveling for 80 miles']",16
+"For the first train, it covers 80 miles westward and 150 miles northward, so the total distance covered is 80 + 150 = 230 miles.","['both traveling for 80 miles', 'they travel northwards', 'covering 150 miles']",16
+"For the second train, it also covers 80 miles westward and 150 miles northward, so the total distance covered is also 80 + 150 = 230 miles.","['both traveling for 80 miles', 'they travel northwards', 'covering 150 miles']",16
+"So, the distance covered by each train in the two days is 230 miles.","['What's the distance covered by', 'each train in the two', 'days']",16
+"First, let's calculate how much Jill earns per week from teaching and coaching.","['Jill gets paid $20 per', 'hour to teach', '$30 to be a cheerleading']",17
+She earns 700 per week from teaching.,"['35 hours a week as', 'a teacher', 'what's her annual salary']",17
+She earns 450 per week from coaching.,"['15 hours a week as', 'a coach', 'what's her annual salary']",17
+"So, in total, Jill earns 700 + 450 = $1150 per week from teaching and coaching.","['If she works 50 weeks', 'a year', 'what's her annual salary']",17
+"Since she works 50 weeks a year, her annual salary is 1150 * 50 = $57,500.","['If she works 50 weeks', 'a year', 'what's her annual salary']",17
+"First, we need to find out how many eggs Claire eats in a week. Since she makes a 3 egg omelet every morning, she eats 3 eggs a day. So in a week (7 days), she eats 3 eggs/day * 7 days/week = 21 eggs/week.","['Claire makes a 3 egg', 'omelet every morning for breakfast', 'How many dozens of eggs']",18
+"Next, we need to find out how many eggs she eats in 4 weeks. So, 21 eggs/week * 4 weeks = 84 eggs.","['How many dozens of eggs', 'will she eat in 4', 'weeks']",18
+"Finally, we need to convert the number of eggs into dozens. Since 1 dozen is equal to 12, we divide the total number of eggs by 12 to find out how many dozens she eats. So, 84 eggs / 12 = 7 dozens.","['How many dozens of eggs', 'will she eat in 4', 'weeks']",18
+Marissa has already walked a total of 4 + 2 = 6 miles in 2 hours.,"['She took 1 hour to', 'walk the first 4 miles', 'another hour to walk the']",19
+"She wants to complete the 12-mile trail in 4 hours, so she has 4 - 2 = 2 hours left to walk the remaining distance.","['If she wants her average', 'speed to be 4 miles', 'per hour']",19
+The remaining distance she needs to walk is 12 - 6 = 6 miles.,"['Marissa is hiking a 12-mile', 'trail', 'what speed (in miles per']",19
+"To find the speed she needs to walk the remaining distance, we divide the remaining distance by the remaining time:","['what speed (in miles per', 'hour) does she need to', 'walk the remaining distance']",19
+"First, let's calculate how much water is in the orange drink and the pineapple drink before any is spilled.","['I have 10 liters of', 'orange drink that are two-thirds', 'water']",20
+"In the orange drink, 2/3 of the 10 liters is water, so 2/3 * 10 = 6.67 liters of water.","['orange drink that are two-thirds', 'water', 'to 15 liters of pineapple']",20
+"In the pineapple drink, 3/5 of the 15 liters is water, so 3/5 * 15 = 9 liters of water.","['to 15 liters of pineapple', 'drink that is three-fifths water', 'How much water is in']",20
+"So, before any is spilled, there is a total of 6.67 + 9 = 15.67 liters of water in the orange and pineapple drinks.","['I spill one liter of', 'the orange drink', 'How much water is in']",20
