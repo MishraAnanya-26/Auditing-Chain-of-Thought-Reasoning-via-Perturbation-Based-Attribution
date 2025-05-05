@@ -32,9 +32,9 @@ While CoT prompting exposes intermediate reasoning steps, it fails to reveal whe
 ### 2. Use it to create the human annotated ground truth from it by matching every step with top three relevant phrases
 ### 3. The column headings for it are: Step, Matched Phrases, Question (please refer sample files in the exp_data to understand better)
 ### 4. Then upload the file named as per the following naming convention: ground_truth_46to50.csv as a dataset as follows:
- 5. <img src="attachment:14622f73-05af-4504-9c0d-d20dc4572e01.png" width="500"/>
+ 5. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/uploadDataset.png" width="500"/>
 ### 5. Drag and drop the ground truth file and name the dataset same as the file for simplicity
-6. <img src="attachment:97abf09e-3b2d-4dc9-8e01-7d6c7736ecdf.png" width="500"/>
+6. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/createDataset.png" width="500"/>
 ### 6. Interpretting Results
 The resultant vector has number of steps per question marked as unfaithful
 
