@@ -5,27 +5,27 @@ While CoT prompting exposes intermediate reasoning steps, it fails to reveal whe
 ### 1. Use a GPU for attribution score generation as shown in the image before starting
 2. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/Readme-GPU.png" width="500"/>
 ### 2. The first cell will clean Up the cache left from any previous runs
-3. <img src="attachment:e46aa8b9-950d-4a25-943f-d0864085b2c2.png" width="500"/>
+3. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/kernelrestart.png" width="500"/>
 ### 3. click OK and proceed
 
 ## Please ensure you have setup a huggingface token. The steps to set it up are shown below:
 ### 1. Sign in to Hugging Face and goto profile
-1. <img src="attachment:bb449825-818e-4b32-866c-be69c8b5b5b3.png" width="800"/>
+1. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/hugging%20face%20login.png" width="800"/>
 ### 2. Next goto settings
-2. <img src="attachment:e4d209cc-4092-421b-8008-4bb51c1520f0.png" width="500"/>
+2. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/huggingfaceSettings.png" width="500"/>
 ### 3. Now create a new token as shown
-3. <img src="attachment:36e018ee-2ecf-4276-911f-266f68481b1b.png" width="600"/>
+3. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/huggingface%20token.png" width="600"/>
 ### 4. Add the token to secrets section in this notebook as shown below
-4. <img src="attachment:029e56af-37c8-460c-bfb4-cacc2e5003ab.png" width="700"/>
+4. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/secrets.png" width="700"/>
 ### We need it for access to the Deepseek Math Model and GSM8K dataset
 
 ## Saving the intermediate results
 1. `output_csv_path = '/kaggle/working/pre_ground_truth_46to50.csv'`: This step will trigger save the intermediate results in the form of a csv
 2. You can find the saved file by following the instructions below:
 3. Click the leftward arrow at the bottom right to open the side bar
-4. <img src="attachment:06d43548-29f7-4d77-8d95-863bc3dc8cdd.png" />
+4. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/seeCreatedfiles.png" />
 5. Hit the refresh to load the latest updates
-6. <img src="attachment:64e48aad-c71e-48e3-b10d-03c4ad0b2926.png"  width="500"/>
+6. <img src="https://github.com/MishraAnanya-26/Auditing-Chain-of-Thought-Reasoning-via-Perturbation-Based-Attribution/blob/main/readmeImages/refresh.png"  width="500"/>
 
 ## Ground Truth Needs to be Supplied Externally
 ### 1. Download the pre_ground_truth_46to50.csv file
